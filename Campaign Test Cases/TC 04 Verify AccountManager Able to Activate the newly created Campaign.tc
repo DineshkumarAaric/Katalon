@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 Verify AccountManager Able to Activate the newly created Campaign</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>737ba930-b718-44ea-9d6c-380a86b88eb7</testCaseGuid>
+</TestCaseEntity>
